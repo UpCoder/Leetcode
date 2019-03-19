@@ -31,7 +31,11 @@
 //#include "ValidSudoku.cpp"
 //#include "SudokuSolver.cpp"
 //#include "ReverseList.cpp"
-#include "FriendCircles.cpp"
+//#include "FriendCircles.cpp"
+//#include "ComvinationSumII.cpp"
+//#include "TrappingRainWater.cpp"
+//#include "Permutations.cpp"
+#include "PermutationsII.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
@@ -65,7 +69,11 @@ int main() {
 //    ValidSudoku::test();
 //    SodukuSolver::test();
 //    ReverseListTest::test();
-    FriendCircles::test();
+//    FriendCircles::test();
+//    CombinationSum::test();
+//    TrappingRainWater::test();
+//    Permutations::test();
+    PermutationsII::test();
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
