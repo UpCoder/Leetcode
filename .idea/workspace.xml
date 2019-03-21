@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b7e4ec-f706-4bf7-9bb8-3dbf32e614b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ComvinationSumII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrappingRainWater.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotateImage.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -28,56 +27,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+        <entry file="file://$PROJECT_DIR$/PermutationsII.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="445" selection-start-line="5" selection-start-column="445" selection-end-line="5" selection-end-column="445" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CombinationSum.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="19" column="5" lean-forward="true" selection-end-line="41" selection-end-column="2" />
+            <state relative-caret-position="168">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
               <folding>
-                <element signature="e#38#57#0" expanded="true" />
+                <element signature="e#38#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ComvinationSumII.cpp">
+        <entry file="file://$PROJECT_DIR$/RotateImage.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
+            <state relative-caret-position="259">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
               <folding>
-                <element signature="e#77#96#0" expanded="true" />
+                <element signature="e#38#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TrappingRainWater.cpp">
+        <entry file="file://$PROJECT_DIR$/GroupAnagrams.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="63" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="183">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding>
-                <element signature="e#39#56#0" expanded="true" />
-                <element signature="e#68#106#0" />
+                <element signature="e#38#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Permutations.cpp">
+        <entry file="file://$PROJECT_DIR$/MaximumSubarray.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="48" column="2" lean-forward="true" selection-start-line="34" selection-end-line="48" selection-end-column="2" />
+            <state relative-caret-position="105">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MaximumProductSubarray.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#38#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JumpGame.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#38#55#0" expanded="true" />
               </folding>
@@ -86,10 +96,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PermutationsII.cpp">
+        <entry file="file://$PROJECT_DIR$/MergeIntervals.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+            <state relative-caret-position="256">
+              <caret line="49" column="19" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="49" selection-end-column="19" />
               <folding>
                 <element signature="e#38#55#0" expanded="true" />
               </folding>
@@ -100,20 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-              <folding>
-                <element signature="e#38#55#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="244">
+              <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -121,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FindFirstLastPositionElementSortedArray.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="1020">
               <caret line="68" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
               <folding>
                 <element signature="e#38#55#0" expanded="true" />
@@ -163,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/utils.cpp" />
         <option value="$PROJECT_DIR$/AddTwoNumber2.cpp" />
         <option value="$PROJECT_DIR$/TwoSum1.cpp" />
         <option value="$PROJECT_DIR$/LongestPalindromicSubstring3.cpp" />
@@ -207,8 +204,14 @@
         <option value="$PROJECT_DIR$/ComvinationSumII.cpp" />
         <option value="$PROJECT_DIR$/TrappingRainWater.cpp" />
         <option value="$PROJECT_DIR$/Permutations.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/PermutationsII.cpp" />
+        <option value="$PROJECT_DIR$/RotateImage.cpp" />
+        <option value="$PROJECT_DIR$/GroupAnagrams.cpp" />
+        <option value="$PROJECT_DIR$/MaximumSubarray.cpp" />
+        <option value="$PROJECT_DIR$/MaximumProductSubarray.cpp" />
+        <option value="$PROJECT_DIR$/JumpGame.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/MergeIntervals.cpp" />
       </list>
     </option>
   </component>
@@ -288,18 +291,19 @@
       <workItem from="1550996398720" duration="615000" />
       <workItem from="1551006209985" duration="3820000" />
       <workItem from="1552188792803" duration="1169000" />
-      <workItem from="1552403037078" duration="8514000" />
+      <workItem from="1552403037078" duration="8738000" />
+      <workItem from="1553010204251" duration="8355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108412000" />
+    <option name="totallyTimeSpent" value="116991000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="728" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49532712" visible="true" weight="0.30533117" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49532712" visible="true" weight="0.3101777" />
       <window_info id="Structure" order="1" sideWeight="0.5046729" side_tool="true" weight="0.26979" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -372,34 +376,20 @@
           <line>17</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/JumpGame.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MergeIntervals.cpp</url>
+          <line>61</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__string">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3240">
-          <caret line="216" selection-start-line="216" selection-end-line="216" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSum1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
-          <folding>
-            <element signature="e#38#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringtoInteger.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ZigZagConversion.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -737,13 +727,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LongestPalindromicSubstring3.cpp">
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iostream">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="109" selection-start-line="96" selection-end-line="109" />
-          <folding>
-            <element signature="e#38#55#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="350">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -754,37 +741,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree.cpp">
+    <entry file="file://$PROJECT_DIR$/CombinationSum.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-end-line="41" selection-end-column="2" />
           <folding>
-            <element signature="e#38#55#0" expanded="true" />
+            <element signature="e#38#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iostream">
+    <entry file="file://$PROJECT_DIR$/ComvinationSumII.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindFirstLastPositionElementSortedArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="68" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        <state relative-caret-position="405">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
           <folding>
-            <element signature="e#38#55#0" expanded="true" />
+            <element signature="e#77#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TrappingRainWater.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="63" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="945">
+          <caret line="63" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
             <element signature="e#39#56#0" expanded="true" />
             <element signature="e#68#106#0" />
@@ -794,8 +774,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Permutations.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="48" column="2" lean-forward="true" selection-start-line="34" selection-end-line="48" selection-end-column="2" />
+        <state relative-caret-position="720">
+          <caret line="48" column="2" selection-start-line="34" selection-end-line="48" selection-end-column="2" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindFirstLastPositionElementSortedArray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestPalindromicSubstring3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" selection-start-line="96" selection-end-line="109" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PermutationsII.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RotateImage.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumSubarray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumProductSubarray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupAnagrams.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JumpGame.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#38#55#0" expanded="true" />
           </folding>
@@ -804,35 +871,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+        <state relative-caret-position="244">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CombinationSum.cpp">
+    <entry file="file://$PROJECT_DIR$/MergeIntervals.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="19" column="5" lean-forward="true" selection-end-line="41" selection-end-column="2" />
-          <folding>
-            <element signature="e#38#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ComvinationSumII.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="e#77#96#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PermutationsII.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        <state relative-caret-position="256">
+          <caret line="49" column="19" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="49" selection-end-column="19" />
           <folding>
             <element signature="e#38#55#0" expanded="true" />
           </folding>

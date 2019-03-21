@@ -35,7 +35,12 @@
 //#include "ComvinationSumII.cpp"
 //#include "TrappingRainWater.cpp"
 //#include "Permutations.cpp"
-#include "PermutationsII.cpp"
+//#include "PermutationsII.cpp"
+//#include "RotateImage.cpp"
+//#include "GroupAnagrams.cpp"
+//#include "MaximumProductSubarray.cpp"
+//#include "JumpGame.cpp"
+#include "MergeIntervals.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
@@ -73,7 +78,12 @@ int main() {
 //    CombinationSum::test();
 //    TrappingRainWater::test();
 //    Permutations::test();
-    PermutationsII::test();
+//    PermutationsII::test();
+//    RotateImage::test();
+//    GroupAnagrams::test();
+//    MaximumProductSubarray::test();
+//    JumpGame::test();
+    MergeIntervals::test();
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
