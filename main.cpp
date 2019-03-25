@@ -40,7 +40,8 @@
 //#include "GroupAnagrams.cpp"
 //#include "MaximumProductSubarray.cpp"
 //#include "JumpGame.cpp"
-#include "MergeIntervals.cpp"
+//#include "MergeIntervals.cpp"
+#include "EditDistance.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
@@ -83,7 +84,8 @@ int main() {
 //    GroupAnagrams::test();
 //    MaximumProductSubarray::test();
 //    JumpGame::test();
-    MergeIntervals::test();
+//    MergeIntervals::test();
+    EdieDistance::test();
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
