@@ -41,7 +41,9 @@
 //#include "MaximumProductSubarray.cpp"
 //#include "JumpGame.cpp"
 //#include "MergeIntervals.cpp"
-#include "EditDistance.cpp"
+//#include "EditDistance.cpp"
+//#include "DecodeWays.cpp"
+#include "UniquePathsIII.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
@@ -85,7 +87,9 @@ int main() {
 //    MaximumProductSubarray::test();
 //    JumpGame::test();
 //    MergeIntervals::test();
-    EdieDistance::test();
+//    EdieDistance::test();
+//    DecodeWays::test();
+    Solution::solution();
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
