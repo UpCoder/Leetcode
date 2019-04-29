@@ -43,7 +43,15 @@
 //#include "MergeIntervals.cpp"
 //#include "EditDistance.cpp"
 //#include "DecodeWays.cpp"
-#include "UniquePathsIII.cpp"
+// #include "UniquePathsIII.cpp"
+//#include "MinimumPathSum.cpp"
+// #include "MinimumWindowSubstring.cpp"
+//#include "SlidingWindowMaximum.cpp"
+//#include "Subsets.cpp"
+//#include "WordSearch.cpp"
+//#include "Trie.cpp"
+#include "WordSearchII.cpp"
+//#include "Trie.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
