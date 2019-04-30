@@ -12,16 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b7e4ec-f706-4bf7-9bb8-3dbf32e614b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MinimumPathSum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumWindowSubstring.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumWindowSubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlidingWindowMaximum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortColors.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Subsets.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubsetsII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordSearch.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordSearchII.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -35,42 +25,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SortColors.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="e#38#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MinimumWindowSubstring.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="58" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
-              <folding>
-                <element signature="e#38#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SlidingWindowMaximum.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding>
-                <element signature="e#38#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Subsets.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WordSearchII.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
@@ -116,6 +70,43 @@
                 <element signature="e#38#55#0" expanded="true" />
                 <element signature="e#1430#2720#1" />
                 <element signature="e#1549#1667#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LargestRectangleinHistogram.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="44" selection-start-line="44" selection-end-line="97" selection-end-column="2" />
+              <folding>
+                <element signature="e#38#55#0" expanded="true" />
+                <element signature="e#39#125#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MaximalRectangle.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="125" column="5" lean-forward="true" selection-start-line="72" selection-start-column="4" selection-end-line="125" selection-end-column="5" />
+              <folding>
+                <element signature="e#38#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SegmentTree.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <element signature="e#38#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+            <state relative-caret-position="303">
+              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -162,9 +153,9 @@
       <find>aaaabbbbbbbbbbc</find>
       <find>2147483648</find>
       <find>[</find>
-      <find>&quot;</find>
       <find>2, 1, 1, 2,</find>
       <find>1, 2, 2, 1,</find>
+      <find>&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -176,9 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LetterCombinationsofaPhoneNumber.cpp" />
-        <option value="$PROJECT_DIR$/ValidParentheses.cpp" />
-        <option value="$PROJECT_DIR$/MergeTwoSortedLists.cpp" />
         <option value="$PROJECT_DIR$/ GenerateParentheses.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/GenerateParentheses.cpp" />
@@ -225,8 +213,11 @@
         <option value="$PROJECT_DIR$/Subsets.cpp" />
         <option value="$PROJECT_DIR$/WordSearch.cpp" />
         <option value="$PROJECT_DIR$/Trie.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/WordSearchII.cpp" />
+        <option value="$PROJECT_DIR$/SegmentTree.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/MaximalRectangle.cpp" />
+        <option value="$PROJECT_DIR$/LargestRectangleinHistogram.cpp" />
       </list>
     </option>
   </component>
@@ -361,12 +352,12 @@
       <workItem from="1553516596210" duration="660000" />
       <workItem from="1553522772042" duration="3256000" />
       <workItem from="1553668043734" duration="612000" />
-      <workItem from="1556278425626" duration="37929000" />
+      <workItem from="1556278425626" duration="48417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160665000" />
+    <option name="totallyTimeSpent" value="171153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
@@ -480,37 +471,35 @@
           <line>160</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LargestRectangleinHistogram.cpp</url>
+          <line>86</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LargestRectangleinHistogram.cpp</url>
+          <line>60</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SegmentTree.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MaximalRectangle.cpp</url>
+          <line>59</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MaximalRectangle.cpp</url>
+          <line>87</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ImplementstrStr.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
-          <folding>
-            <element signature="e#39#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DivideTwoIntegers.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SubstringwithConcatenationofAllWords.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="136" column="28" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="28" />
-          <folding>
-            <element signature="e#38#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NextPermutation.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -927,13 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WordSearch.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -962,6 +944,44 @@
             <element signature="e#38#55#0" expanded="true" />
             <element signature="e#1430#2720#1" />
             <element signature="e#1549#1667#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SegmentTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LargestRectangleinHistogram.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="44" selection-start-line="44" selection-end-line="97" selection-end-column="2" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+            <element signature="e#39#125#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximalRectangle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="72" selection-start-column="4" selection-end-line="125" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
           </folding>
         </state>
       </provider>

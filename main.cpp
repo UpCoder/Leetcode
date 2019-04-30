@@ -50,8 +50,11 @@
 //#include "Subsets.cpp"
 //#include "WordSearch.cpp"
 //#include "Trie.cpp"
-#include "WordSearchII.cpp"
+//#include "WordSearchII.cpp"
 //#include "Trie.cpp"
+//#include "LargestRectangleinHistogram.cpp"
+//#include "SegmentTree.cpp"
+#include "MaximalRectangle.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
