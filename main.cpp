@@ -54,7 +54,13 @@
 //#include "Trie.cpp"
 //#include "LargestRectangleinHistogram.cpp"
 //#include "SegmentTree.cpp"
-#include "MaximalRectangle.cpp"
+//#include "MaximalRectangle.cpp"
+//#include "UniqueBinarySearchTrees.cpp"
+//#include "ValidateBinarySearchTree.cpp"
+//#include "BinaryTreeLevelOrderTraversal.cpp"
+//#include "MaximumDepthofBinaryTree.cpp"
+//#include "ConstructBinaryTreefromPreorderInorderTraversal.cpp"
+#include "FlattenBinaryTreetoLinkedList.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
