@@ -60,7 +60,9 @@
 //#include "BinaryTreeLevelOrderTraversal.cpp"
 //#include "MaximumDepthofBinaryTree.cpp"
 //#include "ConstructBinaryTreefromPreorderInorderTraversal.cpp"
-#include "FlattenBinaryTreetoLinkedList.cpp"
+//#include "FlattenBinaryTreetoLinkedList.cpp"
+//#include "BinaryTreeMaximumPathSum.cpp"
+#include "LongestConsecutiveSequence.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();

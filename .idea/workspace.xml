@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b7e4ec-f706-4bf7-9bb8-3dbf32e614b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -25,31 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTreeInorderTraversal.cpp">
+        <entry file="file://$PROJECT_DIR$/BinaryTreeMaximumPathSum.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="46" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-              <folding>
-                <element signature="e#235#252#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="445" selection-start-line="5" selection-start-column="445" selection-end-line="5" selection-end-column="445" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SymmetricTree.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="109">
+              <caret line="82" column="87" selection-start-line="82" selection-start-column="87" selection-end-line="82" selection-end-column="87" />
               <folding>
                 <element signature="e#39#56#0" expanded="true" />
               </folding>
@@ -58,10 +38,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UniqueBinarySearchTrees.cpp">
+        <entry file="file://$PROJECT_DIR$/LongestConsecutiveSequence.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="210">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="e#38#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTreeInorderTraversal.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+              <folding>
+                <element signature="e#235#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTree.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#38#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="292">
+              <caret line="57" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="57" />
               <folding>
                 <element signature="e#38#55#0" expanded="true" />
               </folding>
@@ -81,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ComvinationSumII.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="405">
               <caret line="27" column="33" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
             </state>
           </provider>
@@ -90,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MaximumDepthofBinaryTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="24" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="e#39#56#0" expanded="true" />
               </folding>
@@ -102,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConstructBinaryTreefromPreorderInorderTraversal.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="69" column="5" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+            <state relative-caret-position="1035">
+              <caret line="69" column="5" selection-start-line="45" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
               <folding>
                 <element signature="e#39#56#0" expanded="true" />
                 <element signature="e#276#1138#0" />
@@ -115,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlattenBinaryTreetoLinkedList.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="705">
+              <caret line="47" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
               <folding>
                 <element signature="e#38#55#0" expanded="true" />
               </folding>
@@ -128,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="349">
-              <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -150,6 +157,7 @@
       <find>2, 1, 1, 2,</find>
       <find>1, 2, 2, 1,</find>
       <find>&quot;</find>
+      <find>rightTotal</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -161,10 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ImplementstrStr.cpp" />
-        <option value="$PROJECT_DIR$/DivideTwoIntegers.cpp" />
-        <option value="$PROJECT_DIR$/SubstringwithConcatenationofAllWords.cpp" />
-        <option value="$PROJECT_DIR$/NextPermutation.cpp" />
         <option value="$PROJECT_DIR$/LongestValidParentheses.cpp" />
         <option value="$PROJECT_DIR$/SearchRotatedSortedArray.cpp" />
         <option value="$PROJECT_DIR$/FindFirstLastPositionElementSortedArray.cpp" />
@@ -210,8 +214,12 @@
         <option value="$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.cpp" />
         <option value="$PROJECT_DIR$/MaximumDepthofBinaryTree.cpp" />
         <option value="$PROJECT_DIR$/ConstructBinaryTreefromPreorderInorderTraversal.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/FlattenBinaryTreetoLinkedList.cpp" />
+        <option value="$PROJECT_DIR$/BestTimeBuyandSellStock.py" />
+        <option value="$PROJECT_DIR$/BestTimeBuySellStock.cpp" />
+        <option value="$PROJECT_DIR$/BinaryTreeMaximumPathSum.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/LongestConsecutiveSequence.cpp" />
       </list>
     </option>
   </component>
@@ -346,23 +354,25 @@
       <workItem from="1553516596210" duration="660000" />
       <workItem from="1553522772042" duration="3256000" />
       <workItem from="1553668043734" duration="612000" />
-      <workItem from="1556278425626" duration="59080000" />
+      <workItem from="1556278425626" duration="59354000" />
+      <workItem from="1556797585996" duration="6069000" />
+      <workItem from="1557058700599" duration="6318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181816000" />
+    <option name="totallyTimeSpent" value="194477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49318182" visible="true" weight="0.33441034" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49318182" visible="true" weight="0.3457189" />
       <window_info id="Structure" order="1" sideWeight="0.5068182" side_tool="true" weight="0.33441034" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32861635" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32861635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -519,39 +529,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReverseList.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-          <folding>
-            <element signature="e#38#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MergekSortedLists.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="2" />
-          <folding>
-            <element signature="e#38#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" selection-start-line="24" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#38#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GenerateParentheses.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
@@ -594,16 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="2" selection-start-line="34" selection-end-line="48" selection-end-column="2" />
-          <folding>
-            <element signature="e#38#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
           <folding>
             <element signature="e#38#55#0" expanded="true" />
           </folding>
@@ -765,16 +732,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="8" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/MinimumWindowSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -902,16 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ValidateBinarySearchTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -919,44 +867,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ComvinationSumII.cpp">
+    <entry file="file://$PROJECT_DIR$/SymmetricTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTreeInorderTraversal.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="e#235#252#0" expanded="true" />
+            <element signature="e#39#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.cpp">
+    <entry file="file://$PROJECT_DIR$/BestTimeBuyandSellStock.py" />
+    <entry file="file://$PROJECT_DIR$/UniqueBinarySearchTrees.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ValidateBinarySearchTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestTimeBuySellStock.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="e#38#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ComvinationSumII.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumDepthofBinaryTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#39#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ConstructBinaryTreefromPreorderInorderTraversal.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="69" column="5" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+        <state relative-caret-position="1035">
+          <caret line="69" column="5" selection-start-line="45" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
           <folding>
             <element signature="e#39#56#0" expanded="true" />
             <element signature="e#276#1138#0" />
@@ -966,38 +932,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlattenBinaryTreetoLinkedList.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="705">
+          <caret line="47" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="e#38#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumDepthofBinaryTree.cpp">
+    <entry file="file://$PROJECT_DIR$/BinaryTreeInorderTraversal.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="310">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <element signature="e#235#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="57" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="57" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTreeMaximumPathSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="82" column="87" selection-start-line="82" selection-start-column="87" selection-end-line="82" selection-end-column="87" />
           <folding>
             <element signature="e#39#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SymmetricTree.cpp">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#39#56#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="349">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UniqueBinarySearchTrees.cpp">
+    <entry file="file://$PROJECT_DIR$/LongestConsecutiveSequence.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
