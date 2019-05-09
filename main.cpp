@@ -65,7 +65,8 @@
 //#include "LongestConsecutiveSequence.cpp"
 //#include "SingleNumber.cpp"
 //#include "WordBreak.cpp"
-#include "SortList.cpp"
+//#include "SortList.cpp"
+#include "LRUCache.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
