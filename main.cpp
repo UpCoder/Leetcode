@@ -67,7 +67,8 @@
 //#include "WordBreak.cpp"
 //#include "SortList.cpp"
 //#include "LRUCache.cpp"
-#include "MinStack.cpp"
+//#include "MinStack.cpp"
+#include "HouseRobberIII.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
