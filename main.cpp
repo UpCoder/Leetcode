@@ -73,7 +73,12 @@
 //#include "ReverseLinkedListII.cpp"
 //#include "CourseSchedule.cpp"
 //#include "RemoveInvalidParentheses.cpp"
-#include "MaximalSquare.cpp"
+//#include "MaximalSquare.cpp"
+//#include "PalindromeLinkedList.cpp"
+//#include "LowestCommonAncestorBinaryTree.cpp"
+//#include "ProductArrayExceptSelf.cpp"
+//#include "PerfectSquares.cpp"
+#include "FindDuplicateNumber.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
