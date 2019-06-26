@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liang/github/Leetcode/BurstBalloons.cpp
+vector
+-
+iostream
+-
+cstring
+-
+cmath
+-
+
+/Users/liang/github/Leetcode/main.cpp
+iostream
+-
+BurstBalloons.cpp
+/Users/liang/github/Leetcode/BurstBalloons.cpp
+
