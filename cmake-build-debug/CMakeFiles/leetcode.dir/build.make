@@ -564,6 +564,45 @@ CMakeFiles/leetcode.dir/BurstBalloons.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/BurstBalloons.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/BurstBalloons.cpp -o CMakeFiles/leetcode.dir/BurstBalloons.cpp.s
 
+CMakeFiles/leetcode.dir/CoinChange.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/CoinChange.cpp.o: ../CoinChange.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/leetcode.dir/CoinChange.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/CoinChange.cpp.o -c /Users/liang/github/Leetcode/CoinChange.cpp
+
+CMakeFiles/leetcode.dir/CoinChange.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/CoinChange.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/CoinChange.cpp > CMakeFiles/leetcode.dir/CoinChange.cpp.i
+
+CMakeFiles/leetcode.dir/CoinChange.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/CoinChange.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/CoinChange.cpp -o CMakeFiles/leetcode.dir/CoinChange.cpp.s
+
+CMakeFiles/leetcode.dir/CountingBits.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/CountingBits.cpp.o: ../CountingBits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/leetcode.dir/CountingBits.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/CountingBits.cpp.o -c /Users/liang/github/Leetcode/CountingBits.cpp
+
+CMakeFiles/leetcode.dir/CountingBits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/CountingBits.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/CountingBits.cpp > CMakeFiles/leetcode.dir/CountingBits.cpp.i
+
+CMakeFiles/leetcode.dir/CountingBits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/CountingBits.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/CountingBits.cpp -o CMakeFiles/leetcode.dir/CountingBits.cpp.s
+
+CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o: ../TopKFrequentElements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o -c /Users/liang/github/Leetcode/TopKFrequentElements.cpp
+
+CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/TopKFrequentElements.cpp > CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.i
+
+CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/TopKFrequentElements.cpp -o CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.s
+
 # Object files for target leetcode
 leetcode_OBJECTS = \
 "CMakeFiles/leetcode.dir/main.cpp.o" \
@@ -604,7 +643,10 @@ leetcode_OBJECTS = \
 "CMakeFiles/leetcode.dir/SudokuSolver.cpp.o" \
 "CMakeFiles/leetcode.dir/ReverseList.cpp.o" \
 "CMakeFiles/leetcode.dir/BinaryTree.cpp.o" \
-"CMakeFiles/leetcode.dir/BurstBalloons.cpp.o"
+"CMakeFiles/leetcode.dir/BurstBalloons.cpp.o" \
+"CMakeFiles/leetcode.dir/CoinChange.cpp.o" \
+"CMakeFiles/leetcode.dir/CountingBits.cpp.o" \
+"CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o"
 
 # External object files for target leetcode
 leetcode_EXTERNAL_OBJECTS =
@@ -648,9 +690,12 @@ leetcode: CMakeFiles/leetcode.dir/SudokuSolver.cpp.o
 leetcode: CMakeFiles/leetcode.dir/ReverseList.cpp.o
 leetcode: CMakeFiles/leetcode.dir/BinaryTree.cpp.o
 leetcode: CMakeFiles/leetcode.dir/BurstBalloons.cpp.o
+leetcode: CMakeFiles/leetcode.dir/CoinChange.cpp.o
+leetcode: CMakeFiles/leetcode.dir/CountingBits.cpp.o
+leetcode: CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o
 leetcode: CMakeFiles/leetcode.dir/build.make
 leetcode: CMakeFiles/leetcode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable leetcode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Linking CXX executable leetcode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -285,6 +285,33 @@ BurstBalloons.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/BurstBalloons.cpp.s
 .PHONY : BurstBalloons.cpp.s
 
+CoinChange.o: CoinChange.cpp.o
+
+.PHONY : CoinChange.o
+
+# target to build an object file
+CoinChange.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CoinChange.cpp.o
+.PHONY : CoinChange.cpp.o
+
+CoinChange.i: CoinChange.cpp.i
+
+.PHONY : CoinChange.i
+
+# target to preprocess a source file
+CoinChange.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CoinChange.cpp.i
+.PHONY : CoinChange.cpp.i
+
+CoinChange.s: CoinChange.cpp.s
+
+.PHONY : CoinChange.s
+
+# target to generate assembly for a file
+CoinChange.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CoinChange.cpp.s
+.PHONY : CoinChange.cpp.s
+
 ContainerWithMostWater.o: ContainerWithMostWater.cpp.o
 
 .PHONY : ContainerWithMostWater.o
@@ -311,6 +338,33 @@ ContainerWithMostWater.s: ContainerWithMostWater.cpp.s
 ContainerWithMostWater.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ContainerWithMostWater.cpp.s
 .PHONY : ContainerWithMostWater.cpp.s
+
+CountingBits.o: CountingBits.cpp.o
+
+.PHONY : CountingBits.o
+
+# target to build an object file
+CountingBits.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CountingBits.cpp.o
+.PHONY : CountingBits.cpp.o
+
+CountingBits.i: CountingBits.cpp.i
+
+.PHONY : CountingBits.i
+
+# target to preprocess a source file
+CountingBits.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CountingBits.cpp.i
+.PHONY : CountingBits.cpp.i
+
+CountingBits.s: CountingBits.cpp.s
+
+.PHONY : CountingBits.s
+
+# target to generate assembly for a file
+CountingBits.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CountingBits.cpp.s
+.PHONY : CountingBits.cpp.s
 
 DivideTwoIntegers.o: DivideTwoIntegers.cpp.o
 
@@ -1014,6 +1068,33 @@ SwapNodesinPairs.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SwapNodesinPairs.cpp.s
 .PHONY : SwapNodesinPairs.cpp.s
 
+TopKFrequentElements.o: TopKFrequentElements.cpp.o
+
+.PHONY : TopKFrequentElements.o
+
+# target to build an object file
+TopKFrequentElements.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o
+.PHONY : TopKFrequentElements.cpp.o
+
+TopKFrequentElements.i: TopKFrequentElements.cpp.i
+
+.PHONY : TopKFrequentElements.i
+
+# target to preprocess a source file
+TopKFrequentElements.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.i
+.PHONY : TopKFrequentElements.cpp.i
+
+TopKFrequentElements.s: TopKFrequentElements.cpp.s
+
+.PHONY : TopKFrequentElements.s
+
+# target to generate assembly for a file
+TopKFrequentElements.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.s
+.PHONY : TopKFrequentElements.cpp.s
+
 TwoSum1.o: TwoSum1.cpp.o
 
 .PHONY : TwoSum1.o
@@ -1203,9 +1284,15 @@ help:
 	@echo "... BurstBalloons.o"
 	@echo "... BurstBalloons.i"
 	@echo "... BurstBalloons.s"
+	@echo "... CoinChange.o"
+	@echo "... CoinChange.i"
+	@echo "... CoinChange.s"
 	@echo "... ContainerWithMostWater.o"
 	@echo "... ContainerWithMostWater.i"
 	@echo "... ContainerWithMostWater.s"
+	@echo "... CountingBits.o"
+	@echo "... CountingBits.i"
+	@echo "... CountingBits.s"
 	@echo "... DivideTwoIntegers.o"
 	@echo "... DivideTwoIntegers.i"
 	@echo "... DivideTwoIntegers.s"
@@ -1284,6 +1371,9 @@ help:
 	@echo "... SwapNodesinPairs.o"
 	@echo "... SwapNodesinPairs.i"
 	@echo "... SwapNodesinPairs.s"
+	@echo "... TopKFrequentElements.o"
+	@echo "... TopKFrequentElements.i"
+	@echo "... TopKFrequentElements.s"
 	@echo "... TwoSum1.o"
 	@echo "... TwoSum1.i"
 	@echo "... TwoSum1.s"

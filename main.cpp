@@ -79,8 +79,10 @@
 //#include "ProductArrayExceptSelf.cpp"
 //#include "PerfectSquares.cpp"
 //#include "FindDuplicateNumber.cpp"
-#include "BurstBalloons.cpp"
-
+//#include "BurstBalloons.cpp"
+//#include "CoinChange.cpp"
+//#include "CountingBits.cpp"
+#include "TopKFrequentElements.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();

@@ -13,7 +13,11 @@ CMakeFiles/leetcode.dir/BinaryTree.cpp.o: ../BinaryTree.cpp
 
 CMakeFiles/leetcode.dir/BurstBalloons.cpp.o: ../BurstBalloons.cpp
 
+CMakeFiles/leetcode.dir/CoinChange.cpp.o: ../CoinChange.cpp
+
 CMakeFiles/leetcode.dir/ContainerWithMostWater.cpp.o: ../ContainerWithMostWater.cpp
+
+CMakeFiles/leetcode.dir/CountingBits.cpp.o: ../CountingBits.cpp
 
 CMakeFiles/leetcode.dir/DivideTwoIntegers.cpp.o: ../DivideTwoIntegers.cpp
 
@@ -67,6 +71,8 @@ CMakeFiles/leetcode.dir/SudokuSolver.cpp.o: ../SudokuSolver.cpp
 
 CMakeFiles/leetcode.dir/SwapNodesinPairs.cpp.o: ../SwapNodesinPairs.cpp
 
+CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o: ../TopKFrequentElements.cpp
+
 CMakeFiles/leetcode.dir/TwoSum1.cpp.o: .././utils.cpp
 CMakeFiles/leetcode.dir/TwoSum1.cpp.o: ../TwoSum1.cpp
 
@@ -76,7 +82,7 @@ CMakeFiles/leetcode.dir/ValidSudoku.cpp.o: ../ValidSudoku.cpp
 
 CMakeFiles/leetcode.dir/ZigZagConversion.cpp.o: ../ZigZagConversion.cpp
 
-CMakeFiles/leetcode.dir/main.cpp.o: ../BurstBalloons.cpp
+CMakeFiles/leetcode.dir/main.cpp.o: ../TopKFrequentElements.cpp
 CMakeFiles/leetcode.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/leetcode.dir/utils.cpp.o: ../utils.cpp

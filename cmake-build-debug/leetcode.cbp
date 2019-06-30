@@ -98,7 +98,13 @@
 		<Unit filename="/Users/liang/github/Leetcode/BurstBalloons.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/CoinChange.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/ContainerWithMostWater.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/CountingBits.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/DivideTwoIntegers.cpp">
@@ -177,6 +183,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/SwapNodesinPairs.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/TopKFrequentElements.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/TwoSum1.cpp">

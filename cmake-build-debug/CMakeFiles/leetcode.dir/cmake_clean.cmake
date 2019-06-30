@@ -38,6 +38,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode.dir/ReverseList.cpp.o"
   "CMakeFiles/leetcode.dir/BinaryTree.cpp.o"
   "CMakeFiles/leetcode.dir/BurstBalloons.cpp.o"
+  "CMakeFiles/leetcode.dir/CoinChange.cpp.o"
+  "CMakeFiles/leetcode.dir/CountingBits.cpp.o"
+  "CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o"
   "leetcode.pdb"
   "leetcode"
 )
