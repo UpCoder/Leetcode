@@ -17,9 +17,19 @@ CMakeFiles/leetcode.dir/CoinChange.cpp.o: ../CoinChange.cpp
 
 CMakeFiles/leetcode.dir/ContainerWithMostWater.cpp.o: ../ContainerWithMostWater.cpp
 
+CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o: ../ConvertBSTGreaterTree.cpp
+
 CMakeFiles/leetcode.dir/CountingBits.cpp.o: ../CountingBits.cpp
 
+CMakeFiles/leetcode.dir/DecodeString.cpp.o: ../DecodeString.cpp
+
 CMakeFiles/leetcode.dir/DivideTwoIntegers.cpp.o: ../DivideTwoIntegers.cpp
+
+CMakeFiles/leetcode.dir/EvaluateDivision.cpp.o: ../EvaluateDivision.cpp
+
+CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.o: ../FindAllAnagramsinString.cpp
+
+CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.o: ../FindAllNumbersDisappearedinanArray.cpp
 
 CMakeFiles/leetcode.dir/FindFirstLastPositionElementSortedArray.cpp.o: ../FindFirstLastPositionElementSortedArray.cpp
 
@@ -44,6 +54,12 @@ CMakeFiles/leetcode.dir/MergekSortedLists.cpp.o: ../MergekSortedLists.cpp
 CMakeFiles/leetcode.dir/NextPermutation.cpp.o: ../NextPermutation.cpp
 
 CMakeFiles/leetcode.dir/PalindromeNumber.cpp.o: ../PalindromeNumber.cpp
+
+CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.o: ../PartitionEqualSubsetSum.cpp
+
+CMakeFiles/leetcode.dir/PathSumIII.cpp.o: ../PathSumIII.cpp
+
+CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.o: ../QueueReconstructionbyHeight.cpp
 
 CMakeFiles/leetcode.dir/RegularExpressionMatching.cpp.o: ../RegularExpressionMatching.cpp
 
@@ -71,6 +87,8 @@ CMakeFiles/leetcode.dir/SudokuSolver.cpp.o: ../SudokuSolver.cpp
 
 CMakeFiles/leetcode.dir/SwapNodesinPairs.cpp.o: ../SwapNodesinPairs.cpp
 
+CMakeFiles/leetcode.dir/TargetSum.cpp.o: ../TargetSum.cpp
+
 CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o: ../TopKFrequentElements.cpp
 
 CMakeFiles/leetcode.dir/TwoSum1.cpp.o: .././utils.cpp
@@ -82,7 +100,7 @@ CMakeFiles/leetcode.dir/ValidSudoku.cpp.o: ../ValidSudoku.cpp
 
 CMakeFiles/leetcode.dir/ZigZagConversion.cpp.o: ../ZigZagConversion.cpp
 
-CMakeFiles/leetcode.dir/main.cpp.o: ../TopKFrequentElements.cpp
+CMakeFiles/leetcode.dir/main.cpp.o: ../ConvertBSTGreaterTree.cpp
 CMakeFiles/leetcode.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/leetcode.dir/utils.cpp.o: ../utils.cpp

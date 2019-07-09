@@ -603,6 +603,123 @@ CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/TopKFrequentElements.cpp -o CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.s
 
+CMakeFiles/leetcode.dir/DecodeString.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/DecodeString.cpp.o: ../DecodeString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/leetcode.dir/DecodeString.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/DecodeString.cpp.o -c /Users/liang/github/Leetcode/DecodeString.cpp
+
+CMakeFiles/leetcode.dir/DecodeString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/DecodeString.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/DecodeString.cpp > CMakeFiles/leetcode.dir/DecodeString.cpp.i
+
+CMakeFiles/leetcode.dir/DecodeString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/DecodeString.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/DecodeString.cpp -o CMakeFiles/leetcode.dir/DecodeString.cpp.s
+
+CMakeFiles/leetcode.dir/EvaluateDivision.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/EvaluateDivision.cpp.o: ../EvaluateDivision.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/leetcode.dir/EvaluateDivision.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/EvaluateDivision.cpp.o -c /Users/liang/github/Leetcode/EvaluateDivision.cpp
+
+CMakeFiles/leetcode.dir/EvaluateDivision.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/EvaluateDivision.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/EvaluateDivision.cpp > CMakeFiles/leetcode.dir/EvaluateDivision.cpp.i
+
+CMakeFiles/leetcode.dir/EvaluateDivision.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/EvaluateDivision.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/EvaluateDivision.cpp -o CMakeFiles/leetcode.dir/EvaluateDivision.cpp.s
+
+CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.o: ../QueueReconstructionbyHeight.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.o -c /Users/liang/github/Leetcode/QueueReconstructionbyHeight.cpp
+
+CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/QueueReconstructionbyHeight.cpp > CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.i
+
+CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/QueueReconstructionbyHeight.cpp -o CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.s
+
+CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.o: ../PartitionEqualSubsetSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.o -c /Users/liang/github/Leetcode/PartitionEqualSubsetSum.cpp
+
+CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/PartitionEqualSubsetSum.cpp > CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.i
+
+CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/PartitionEqualSubsetSum.cpp -o CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.s
+
+CMakeFiles/leetcode.dir/PathSumIII.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/PathSumIII.cpp.o: ../PathSumIII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/leetcode.dir/PathSumIII.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/PathSumIII.cpp.o -c /Users/liang/github/Leetcode/PathSumIII.cpp
+
+CMakeFiles/leetcode.dir/PathSumIII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/PathSumIII.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/PathSumIII.cpp > CMakeFiles/leetcode.dir/PathSumIII.cpp.i
+
+CMakeFiles/leetcode.dir/PathSumIII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/PathSumIII.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/PathSumIII.cpp -o CMakeFiles/leetcode.dir/PathSumIII.cpp.s
+
+CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.o: ../FindAllAnagramsinString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.o -c /Users/liang/github/Leetcode/FindAllAnagramsinString.cpp
+
+CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/FindAllAnagramsinString.cpp > CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.i
+
+CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/FindAllAnagramsinString.cpp -o CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.s
+
+CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.o: ../FindAllNumbersDisappearedinanArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.o -c /Users/liang/github/Leetcode/FindAllNumbersDisappearedinanArray.cpp
+
+CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/FindAllNumbersDisappearedinanArray.cpp > CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.i
+
+CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/FindAllNumbersDisappearedinanArray.cpp -o CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.s
+
+CMakeFiles/leetcode.dir/TargetSum.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/TargetSum.cpp.o: ../TargetSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/leetcode.dir/TargetSum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/TargetSum.cpp.o -c /Users/liang/github/Leetcode/TargetSum.cpp
+
+CMakeFiles/leetcode.dir/TargetSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/TargetSum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/TargetSum.cpp > CMakeFiles/leetcode.dir/TargetSum.cpp.i
+
+CMakeFiles/leetcode.dir/TargetSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/TargetSum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/TargetSum.cpp -o CMakeFiles/leetcode.dir/TargetSum.cpp.s
+
+CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o: ../ConvertBSTGreaterTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o -c /Users/liang/github/Leetcode/ConvertBSTGreaterTree.cpp
+
+CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liang/github/Leetcode/ConvertBSTGreaterTree.cpp > CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.i
+
+CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liang/github/Leetcode/ConvertBSTGreaterTree.cpp -o CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.s
+
 # Object files for target leetcode
 leetcode_OBJECTS = \
 "CMakeFiles/leetcode.dir/main.cpp.o" \
@@ -646,7 +763,16 @@ leetcode_OBJECTS = \
 "CMakeFiles/leetcode.dir/BurstBalloons.cpp.o" \
 "CMakeFiles/leetcode.dir/CoinChange.cpp.o" \
 "CMakeFiles/leetcode.dir/CountingBits.cpp.o" \
-"CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o"
+"CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o" \
+"CMakeFiles/leetcode.dir/DecodeString.cpp.o" \
+"CMakeFiles/leetcode.dir/EvaluateDivision.cpp.o" \
+"CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.o" \
+"CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.o" \
+"CMakeFiles/leetcode.dir/PathSumIII.cpp.o" \
+"CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.o" \
+"CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.o" \
+"CMakeFiles/leetcode.dir/TargetSum.cpp.o" \
+"CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o"
 
 # External object files for target leetcode
 leetcode_EXTERNAL_OBJECTS =
@@ -693,9 +819,18 @@ leetcode: CMakeFiles/leetcode.dir/BurstBalloons.cpp.o
 leetcode: CMakeFiles/leetcode.dir/CoinChange.cpp.o
 leetcode: CMakeFiles/leetcode.dir/CountingBits.cpp.o
 leetcode: CMakeFiles/leetcode.dir/TopKFrequentElements.cpp.o
+leetcode: CMakeFiles/leetcode.dir/DecodeString.cpp.o
+leetcode: CMakeFiles/leetcode.dir/EvaluateDivision.cpp.o
+leetcode: CMakeFiles/leetcode.dir/QueueReconstructionbyHeight.cpp.o
+leetcode: CMakeFiles/leetcode.dir/PartitionEqualSubsetSum.cpp.o
+leetcode: CMakeFiles/leetcode.dir/PathSumIII.cpp.o
+leetcode: CMakeFiles/leetcode.dir/FindAllAnagramsinString.cpp.o
+leetcode: CMakeFiles/leetcode.dir/FindAllNumbersDisappearedinanArray.cpp.o
+leetcode: CMakeFiles/leetcode.dir/TargetSum.cpp.o
+leetcode: CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o
 leetcode: CMakeFiles/leetcode.dir/build.make
 leetcode: CMakeFiles/leetcode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Linking CXX executable leetcode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liang/github/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Linking CXX executable leetcode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

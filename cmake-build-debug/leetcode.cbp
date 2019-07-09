@@ -104,10 +104,25 @@
 		<Unit filename="/Users/liang/github/Leetcode/ContainerWithMostWater.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/ConvertBSTGreaterTree.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/CountingBits.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/DecodeString.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/DivideTwoIntegers.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/EvaluateDivision.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/FindAllAnagramsinString.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/FindAllNumbersDisappearedinanArray.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/FindFirstLastPositionElementSortedArray.cpp">
@@ -144,6 +159,15 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/PalindromeNumber.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/PartitionEqualSubsetSum.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/PathSumIII.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/QueueReconstructionbyHeight.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/RegularExpressionMatching.cpp">
@@ -183,6 +207,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/SwapNodesinPairs.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/TargetSum.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/TopKFrequentElements.cpp">
