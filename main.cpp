@@ -91,7 +91,19 @@
 //#include "FindAllAnagramsinString.cpp"
 //#include "FindAllNumbersDisappearedinanArray.cpp"
 //#include "TargetSum.cpp"
-#include "ConvertBSTGreaterTree.cpp"
+//#include "ConvertBSTGreaterTree.cpp"
+//#include "DiameterBinaryTree.cpp"
+//#include "SubarraySumEqualsK.cpp"
+//#include "ShortestUnsortedContinuousSubarray.cpp"
+//#include "TaskScheduler.cpp"
+//#include "LongestPalindromicSubstring.cpp"
+//#include "DailyTemperatures.cpp"
+//#include "FindMedianDataStream.cpp"
+//#include "CountandSay.cpp"
+// #include "FirstMissingPositive.cpp"
+//#include "SetMatrixZeroes.cpp"
+//#include "BinaryTreeZigzagLevelOrderTraversal.cpp"
+#include "PopulatingNextRightPointersEachNode.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();

@@ -258,6 +258,33 @@ BinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/BinaryTree.cpp.s
 .PHONY : BinaryTree.cpp.s
 
+BinaryTreeZigzagLevelOrderTraversal.o: BinaryTreeZigzagLevelOrderTraversal.cpp.o
+
+.PHONY : BinaryTreeZigzagLevelOrderTraversal.o
+
+# target to build an object file
+BinaryTreeZigzagLevelOrderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/BinaryTreeZigzagLevelOrderTraversal.cpp.o
+.PHONY : BinaryTreeZigzagLevelOrderTraversal.cpp.o
+
+BinaryTreeZigzagLevelOrderTraversal.i: BinaryTreeZigzagLevelOrderTraversal.cpp.i
+
+.PHONY : BinaryTreeZigzagLevelOrderTraversal.i
+
+# target to preprocess a source file
+BinaryTreeZigzagLevelOrderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/BinaryTreeZigzagLevelOrderTraversal.cpp.i
+.PHONY : BinaryTreeZigzagLevelOrderTraversal.cpp.i
+
+BinaryTreeZigzagLevelOrderTraversal.s: BinaryTreeZigzagLevelOrderTraversal.cpp.s
+
+.PHONY : BinaryTreeZigzagLevelOrderTraversal.s
+
+# target to generate assembly for a file
+BinaryTreeZigzagLevelOrderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/BinaryTreeZigzagLevelOrderTraversal.cpp.s
+.PHONY : BinaryTreeZigzagLevelOrderTraversal.cpp.s
+
 BurstBalloons.o: BurstBalloons.cpp.o
 
 .PHONY : BurstBalloons.o
@@ -366,6 +393,60 @@ ConvertBSTGreaterTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.s
 .PHONY : ConvertBSTGreaterTree.cpp.s
 
+ConvertSortedArrayBinarySearchTree.o: ConvertSortedArrayBinarySearchTree.cpp.o
+
+.PHONY : ConvertSortedArrayBinarySearchTree.o
+
+# target to build an object file
+ConvertSortedArrayBinarySearchTree.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ConvertSortedArrayBinarySearchTree.cpp.o
+.PHONY : ConvertSortedArrayBinarySearchTree.cpp.o
+
+ConvertSortedArrayBinarySearchTree.i: ConvertSortedArrayBinarySearchTree.cpp.i
+
+.PHONY : ConvertSortedArrayBinarySearchTree.i
+
+# target to preprocess a source file
+ConvertSortedArrayBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ConvertSortedArrayBinarySearchTree.cpp.i
+.PHONY : ConvertSortedArrayBinarySearchTree.cpp.i
+
+ConvertSortedArrayBinarySearchTree.s: ConvertSortedArrayBinarySearchTree.cpp.s
+
+.PHONY : ConvertSortedArrayBinarySearchTree.s
+
+# target to generate assembly for a file
+ConvertSortedArrayBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ConvertSortedArrayBinarySearchTree.cpp.s
+.PHONY : ConvertSortedArrayBinarySearchTree.cpp.s
+
+CountandSay.o: CountandSay.cpp.o
+
+.PHONY : CountandSay.o
+
+# target to build an object file
+CountandSay.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CountandSay.cpp.o
+.PHONY : CountandSay.cpp.o
+
+CountandSay.i: CountandSay.cpp.i
+
+.PHONY : CountandSay.i
+
+# target to preprocess a source file
+CountandSay.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CountandSay.cpp.i
+.PHONY : CountandSay.cpp.i
+
+CountandSay.s: CountandSay.cpp.s
+
+.PHONY : CountandSay.s
+
+# target to generate assembly for a file
+CountandSay.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CountandSay.cpp.s
+.PHONY : CountandSay.cpp.s
+
 CountingBits.o: CountingBits.cpp.o
 
 .PHONY : CountingBits.o
@@ -393,6 +474,33 @@ CountingBits.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CountingBits.cpp.s
 .PHONY : CountingBits.cpp.s
 
+DailyTemperatures.o: DailyTemperatures.cpp.o
+
+.PHONY : DailyTemperatures.o
+
+# target to build an object file
+DailyTemperatures.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/DailyTemperatures.cpp.o
+.PHONY : DailyTemperatures.cpp.o
+
+DailyTemperatures.i: DailyTemperatures.cpp.i
+
+.PHONY : DailyTemperatures.i
+
+# target to preprocess a source file
+DailyTemperatures.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/DailyTemperatures.cpp.i
+.PHONY : DailyTemperatures.cpp.i
+
+DailyTemperatures.s: DailyTemperatures.cpp.s
+
+.PHONY : DailyTemperatures.s
+
+# target to generate assembly for a file
+DailyTemperatures.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/DailyTemperatures.cpp.s
+.PHONY : DailyTemperatures.cpp.s
+
 DecodeString.o: DecodeString.cpp.o
 
 .PHONY : DecodeString.o
@@ -419,6 +527,33 @@ DecodeString.s: DecodeString.cpp.s
 DecodeString.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/DecodeString.cpp.s
 .PHONY : DecodeString.cpp.s
+
+DiameterBinaryTree.o: DiameterBinaryTree.cpp.o
+
+.PHONY : DiameterBinaryTree.o
+
+# target to build an object file
+DiameterBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/DiameterBinaryTree.cpp.o
+.PHONY : DiameterBinaryTree.cpp.o
+
+DiameterBinaryTree.i: DiameterBinaryTree.cpp.i
+
+.PHONY : DiameterBinaryTree.i
+
+# target to preprocess a source file
+DiameterBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/DiameterBinaryTree.cpp.i
+.PHONY : DiameterBinaryTree.cpp.i
+
+DiameterBinaryTree.s: DiameterBinaryTree.cpp.s
+
+.PHONY : DiameterBinaryTree.s
+
+# target to generate assembly for a file
+DiameterBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/DiameterBinaryTree.cpp.s
+.PHONY : DiameterBinaryTree.cpp.s
 
 DivideTwoIntegers.o: DivideTwoIntegers.cpp.o
 
@@ -555,6 +690,60 @@ FindFirstLastPositionElementSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/FindFirstLastPositionElementSortedArray.cpp.s
 .PHONY : FindFirstLastPositionElementSortedArray.cpp.s
 
+FindMedianDataStream.o: FindMedianDataStream.cpp.o
+
+.PHONY : FindMedianDataStream.o
+
+# target to build an object file
+FindMedianDataStream.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/FindMedianDataStream.cpp.o
+.PHONY : FindMedianDataStream.cpp.o
+
+FindMedianDataStream.i: FindMedianDataStream.cpp.i
+
+.PHONY : FindMedianDataStream.i
+
+# target to preprocess a source file
+FindMedianDataStream.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/FindMedianDataStream.cpp.i
+.PHONY : FindMedianDataStream.cpp.i
+
+FindMedianDataStream.s: FindMedianDataStream.cpp.s
+
+.PHONY : FindMedianDataStream.s
+
+# target to generate assembly for a file
+FindMedianDataStream.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/FindMedianDataStream.cpp.s
+.PHONY : FindMedianDataStream.cpp.s
+
+FirstMissingPositive.o: FirstMissingPositive.cpp.o
+
+.PHONY : FirstMissingPositive.o
+
+# target to build an object file
+FirstMissingPositive.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/FirstMissingPositive.cpp.o
+.PHONY : FirstMissingPositive.cpp.o
+
+FirstMissingPositive.i: FirstMissingPositive.cpp.i
+
+.PHONY : FirstMissingPositive.i
+
+# target to preprocess a source file
+FirstMissingPositive.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/FirstMissingPositive.cpp.i
+.PHONY : FirstMissingPositive.cpp.i
+
+FirstMissingPositive.s: FirstMissingPositive.cpp.s
+
+.PHONY : FirstMissingPositive.s
+
+# target to generate assembly for a file
+FirstMissingPositive.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/FirstMissingPositive.cpp.s
+.PHONY : FirstMissingPositive.cpp.s
+
 GenerateParentheses.o: GenerateParentheses.cpp.o
 
 .PHONY : GenerateParentheses.o
@@ -690,6 +879,33 @@ LongestCommonPrefix.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LongestCommonPrefix.cpp.s
 .PHONY : LongestCommonPrefix.cpp.s
 
+LongestPalindromicSubstring.o: LongestPalindromicSubstring.cpp.o
+
+.PHONY : LongestPalindromicSubstring.o
+
+# target to build an object file
+LongestPalindromicSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LongestPalindromicSubstring.cpp.o
+.PHONY : LongestPalindromicSubstring.cpp.o
+
+LongestPalindromicSubstring.i: LongestPalindromicSubstring.cpp.i
+
+.PHONY : LongestPalindromicSubstring.i
+
+# target to preprocess a source file
+LongestPalindromicSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LongestPalindromicSubstring.cpp.i
+.PHONY : LongestPalindromicSubstring.cpp.i
+
+LongestPalindromicSubstring.s: LongestPalindromicSubstring.cpp.s
+
+.PHONY : LongestPalindromicSubstring.s
+
+# target to generate assembly for a file
+LongestPalindromicSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LongestPalindromicSubstring.cpp.s
+.PHONY : LongestPalindromicSubstring.cpp.s
+
 LongestPalindromicSubstring3.o: LongestPalindromicSubstring3.cpp.o
 
 .PHONY : LongestPalindromicSubstring3.o
@@ -743,6 +959,33 @@ LongestValidParentheses.s: LongestValidParentheses.cpp.s
 LongestValidParentheses.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LongestValidParentheses.cpp.s
 .PHONY : LongestValidParentheses.cpp.s
+
+MergeTwoBinaryTrees.o: MergeTwoBinaryTrees.cpp.o
+
+.PHONY : MergeTwoBinaryTrees.o
+
+# target to build an object file
+MergeTwoBinaryTrees.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/MergeTwoBinaryTrees.cpp.o
+.PHONY : MergeTwoBinaryTrees.cpp.o
+
+MergeTwoBinaryTrees.i: MergeTwoBinaryTrees.cpp.i
+
+.PHONY : MergeTwoBinaryTrees.i
+
+# target to preprocess a source file
+MergeTwoBinaryTrees.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/MergeTwoBinaryTrees.cpp.i
+.PHONY : MergeTwoBinaryTrees.cpp.i
+
+MergeTwoBinaryTrees.s: MergeTwoBinaryTrees.cpp.s
+
+.PHONY : MergeTwoBinaryTrees.s
+
+# target to generate assembly for a file
+MergeTwoBinaryTrees.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/MergeTwoBinaryTrees.cpp.s
+.PHONY : MergeTwoBinaryTrees.cpp.s
 
 MergeTwoSortedLists.o: MergeTwoSortedLists.cpp.o
 
@@ -852,6 +1095,33 @@ PalindromeNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromeNumber.cpp.s
 .PHONY : PalindromeNumber.cpp.s
 
+PalindromicSubstrings.o: PalindromicSubstrings.cpp.o
+
+.PHONY : PalindromicSubstrings.o
+
+# target to build an object file
+PalindromicSubstrings.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromicSubstrings.cpp.o
+.PHONY : PalindromicSubstrings.cpp.o
+
+PalindromicSubstrings.i: PalindromicSubstrings.cpp.i
+
+.PHONY : PalindromicSubstrings.i
+
+# target to preprocess a source file
+PalindromicSubstrings.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromicSubstrings.cpp.i
+.PHONY : PalindromicSubstrings.cpp.i
+
+PalindromicSubstrings.s: PalindromicSubstrings.cpp.s
+
+.PHONY : PalindromicSubstrings.s
+
+# target to generate assembly for a file
+PalindromicSubstrings.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromicSubstrings.cpp.s
+.PHONY : PalindromicSubstrings.cpp.s
+
 PartitionEqualSubsetSum.o: PartitionEqualSubsetSum.cpp.o
 
 .PHONY : PartitionEqualSubsetSum.o
@@ -905,6 +1175,33 @@ PathSumIII.s: PathSumIII.cpp.s
 PathSumIII.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PathSumIII.cpp.s
 .PHONY : PathSumIII.cpp.s
+
+PopulatingNextRightPointersEachNode.o: PopulatingNextRightPointersEachNode.cpp.o
+
+.PHONY : PopulatingNextRightPointersEachNode.o
+
+# target to build an object file
+PopulatingNextRightPointersEachNode.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PopulatingNextRightPointersEachNode.cpp.o
+.PHONY : PopulatingNextRightPointersEachNode.cpp.o
+
+PopulatingNextRightPointersEachNode.i: PopulatingNextRightPointersEachNode.cpp.i
+
+.PHONY : PopulatingNextRightPointersEachNode.i
+
+# target to preprocess a source file
+PopulatingNextRightPointersEachNode.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PopulatingNextRightPointersEachNode.cpp.i
+.PHONY : PopulatingNextRightPointersEachNode.cpp.i
+
+PopulatingNextRightPointersEachNode.s: PopulatingNextRightPointersEachNode.cpp.s
+
+.PHONY : PopulatingNextRightPointersEachNode.s
+
+# target to generate assembly for a file
+PopulatingNextRightPointersEachNode.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PopulatingNextRightPointersEachNode.cpp.s
+.PHONY : PopulatingNextRightPointersEachNode.cpp.s
 
 QueueReconstructionbyHeight.o: QueueReconstructionbyHeight.cpp.o
 
@@ -1176,6 +1473,87 @@ SearchRotatedSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SearchRotatedSortedArray.cpp.s
 .PHONY : SearchRotatedSortedArray.cpp.s
 
+SetMatrixZeroes.o: SetMatrixZeroes.cpp.o
+
+.PHONY : SetMatrixZeroes.o
+
+# target to build an object file
+SetMatrixZeroes.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SetMatrixZeroes.cpp.o
+.PHONY : SetMatrixZeroes.cpp.o
+
+SetMatrixZeroes.i: SetMatrixZeroes.cpp.i
+
+.PHONY : SetMatrixZeroes.i
+
+# target to preprocess a source file
+SetMatrixZeroes.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SetMatrixZeroes.cpp.i
+.PHONY : SetMatrixZeroes.cpp.i
+
+SetMatrixZeroes.s: SetMatrixZeroes.cpp.s
+
+.PHONY : SetMatrixZeroes.s
+
+# target to generate assembly for a file
+SetMatrixZeroes.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SetMatrixZeroes.cpp.s
+.PHONY : SetMatrixZeroes.cpp.s
+
+ShortestUnsortedContinuousSubarray.o: ShortestUnsortedContinuousSubarray.cpp.o
+
+.PHONY : ShortestUnsortedContinuousSubarray.o
+
+# target to build an object file
+ShortestUnsortedContinuousSubarray.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ShortestUnsortedContinuousSubarray.cpp.o
+.PHONY : ShortestUnsortedContinuousSubarray.cpp.o
+
+ShortestUnsortedContinuousSubarray.i: ShortestUnsortedContinuousSubarray.cpp.i
+
+.PHONY : ShortestUnsortedContinuousSubarray.i
+
+# target to preprocess a source file
+ShortestUnsortedContinuousSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ShortestUnsortedContinuousSubarray.cpp.i
+.PHONY : ShortestUnsortedContinuousSubarray.cpp.i
+
+ShortestUnsortedContinuousSubarray.s: ShortestUnsortedContinuousSubarray.cpp.s
+
+.PHONY : ShortestUnsortedContinuousSubarray.s
+
+# target to generate assembly for a file
+ShortestUnsortedContinuousSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ShortestUnsortedContinuousSubarray.cpp.s
+.PHONY : ShortestUnsortedContinuousSubarray.cpp.s
+
+SpiralMatrix.o: SpiralMatrix.cpp.o
+
+.PHONY : SpiralMatrix.o
+
+# target to build an object file
+SpiralMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SpiralMatrix.cpp.o
+.PHONY : SpiralMatrix.cpp.o
+
+SpiralMatrix.i: SpiralMatrix.cpp.i
+
+.PHONY : SpiralMatrix.i
+
+# target to preprocess a source file
+SpiralMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SpiralMatrix.cpp.i
+.PHONY : SpiralMatrix.cpp.i
+
+SpiralMatrix.s: SpiralMatrix.cpp.s
+
+.PHONY : SpiralMatrix.s
+
+# target to generate assembly for a file
+SpiralMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SpiralMatrix.cpp.s
+.PHONY : SpiralMatrix.cpp.s
+
 StringtoInteger.o: StringtoInteger.cpp.o
 
 .PHONY : StringtoInteger.o
@@ -1202,6 +1580,33 @@ StringtoInteger.s: StringtoInteger.cpp.s
 StringtoInteger.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/StringtoInteger.cpp.s
 .PHONY : StringtoInteger.cpp.s
+
+SubarraySumEqualsK.o: SubarraySumEqualsK.cpp.o
+
+.PHONY : SubarraySumEqualsK.o
+
+# target to build an object file
+SubarraySumEqualsK.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SubarraySumEqualsK.cpp.o
+.PHONY : SubarraySumEqualsK.cpp.o
+
+SubarraySumEqualsK.i: SubarraySumEqualsK.cpp.i
+
+.PHONY : SubarraySumEqualsK.i
+
+# target to preprocess a source file
+SubarraySumEqualsK.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SubarraySumEqualsK.cpp.i
+.PHONY : SubarraySumEqualsK.cpp.i
+
+SubarraySumEqualsK.s: SubarraySumEqualsK.cpp.s
+
+.PHONY : SubarraySumEqualsK.s
+
+# target to generate assembly for a file
+SubarraySumEqualsK.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SubarraySumEqualsK.cpp.s
+.PHONY : SubarraySumEqualsK.cpp.s
 
 SubstringwithConcatenationofAllWords.o: SubstringwithConcatenationofAllWords.cpp.o
 
@@ -1310,6 +1715,33 @@ TargetSum.s: TargetSum.cpp.s
 TargetSum.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TargetSum.cpp.s
 .PHONY : TargetSum.cpp.s
+
+TaskScheduler.o: TaskScheduler.cpp.o
+
+.PHONY : TaskScheduler.o
+
+# target to build an object file
+TaskScheduler.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TaskScheduler.cpp.o
+.PHONY : TaskScheduler.cpp.o
+
+TaskScheduler.i: TaskScheduler.cpp.i
+
+.PHONY : TaskScheduler.i
+
+# target to preprocess a source file
+TaskScheduler.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TaskScheduler.cpp.i
+.PHONY : TaskScheduler.cpp.i
+
+TaskScheduler.s: TaskScheduler.cpp.s
+
+.PHONY : TaskScheduler.s
+
+# target to generate assembly for a file
+TaskScheduler.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TaskScheduler.cpp.s
+.PHONY : TaskScheduler.cpp.s
 
 TopKFrequentElements.o: TopKFrequentElements.cpp.o
 
@@ -1524,6 +1956,9 @@ help:
 	@echo "... BinaryTree.o"
 	@echo "... BinaryTree.i"
 	@echo "... BinaryTree.s"
+	@echo "... BinaryTreeZigzagLevelOrderTraversal.o"
+	@echo "... BinaryTreeZigzagLevelOrderTraversal.i"
+	@echo "... BinaryTreeZigzagLevelOrderTraversal.s"
 	@echo "... BurstBalloons.o"
 	@echo "... BurstBalloons.i"
 	@echo "... BurstBalloons.s"
@@ -1536,12 +1971,24 @@ help:
 	@echo "... ConvertBSTGreaterTree.o"
 	@echo "... ConvertBSTGreaterTree.i"
 	@echo "... ConvertBSTGreaterTree.s"
+	@echo "... ConvertSortedArrayBinarySearchTree.o"
+	@echo "... ConvertSortedArrayBinarySearchTree.i"
+	@echo "... ConvertSortedArrayBinarySearchTree.s"
+	@echo "... CountandSay.o"
+	@echo "... CountandSay.i"
+	@echo "... CountandSay.s"
 	@echo "... CountingBits.o"
 	@echo "... CountingBits.i"
 	@echo "... CountingBits.s"
+	@echo "... DailyTemperatures.o"
+	@echo "... DailyTemperatures.i"
+	@echo "... DailyTemperatures.s"
 	@echo "... DecodeString.o"
 	@echo "... DecodeString.i"
 	@echo "... DecodeString.s"
+	@echo "... DiameterBinaryTree.o"
+	@echo "... DiameterBinaryTree.i"
+	@echo "... DiameterBinaryTree.s"
 	@echo "... DivideTwoIntegers.o"
 	@echo "... DivideTwoIntegers.i"
 	@echo "... DivideTwoIntegers.s"
@@ -1557,6 +2004,12 @@ help:
 	@echo "... FindFirstLastPositionElementSortedArray.o"
 	@echo "... FindFirstLastPositionElementSortedArray.i"
 	@echo "... FindFirstLastPositionElementSortedArray.s"
+	@echo "... FindMedianDataStream.o"
+	@echo "... FindMedianDataStream.i"
+	@echo "... FindMedianDataStream.s"
+	@echo "... FirstMissingPositive.o"
+	@echo "... FirstMissingPositive.i"
+	@echo "... FirstMissingPositive.s"
 	@echo "... GenerateParentheses.o"
 	@echo "... GenerateParentheses.i"
 	@echo "... GenerateParentheses.s"
@@ -1572,12 +2025,18 @@ help:
 	@echo "... LongestCommonPrefix.o"
 	@echo "... LongestCommonPrefix.i"
 	@echo "... LongestCommonPrefix.s"
+	@echo "... LongestPalindromicSubstring.o"
+	@echo "... LongestPalindromicSubstring.i"
+	@echo "... LongestPalindromicSubstring.s"
 	@echo "... LongestPalindromicSubstring3.o"
 	@echo "... LongestPalindromicSubstring3.i"
 	@echo "... LongestPalindromicSubstring3.s"
 	@echo "... LongestValidParentheses.o"
 	@echo "... LongestValidParentheses.i"
 	@echo "... LongestValidParentheses.s"
+	@echo "... MergeTwoBinaryTrees.o"
+	@echo "... MergeTwoBinaryTrees.i"
+	@echo "... MergeTwoBinaryTrees.s"
 	@echo "... MergeTwoSortedLists.o"
 	@echo "... MergeTwoSortedLists.i"
 	@echo "... MergeTwoSortedLists.s"
@@ -1590,12 +2049,18 @@ help:
 	@echo "... PalindromeNumber.o"
 	@echo "... PalindromeNumber.i"
 	@echo "... PalindromeNumber.s"
+	@echo "... PalindromicSubstrings.o"
+	@echo "... PalindromicSubstrings.i"
+	@echo "... PalindromicSubstrings.s"
 	@echo "... PartitionEqualSubsetSum.o"
 	@echo "... PartitionEqualSubsetSum.i"
 	@echo "... PartitionEqualSubsetSum.s"
 	@echo "... PathSumIII.o"
 	@echo "... PathSumIII.i"
 	@echo "... PathSumIII.s"
+	@echo "... PopulatingNextRightPointersEachNode.o"
+	@echo "... PopulatingNextRightPointersEachNode.i"
+	@echo "... PopulatingNextRightPointersEachNode.s"
 	@echo "... QueueReconstructionbyHeight.o"
 	@echo "... QueueReconstructionbyHeight.i"
 	@echo "... QueueReconstructionbyHeight.s"
@@ -1626,9 +2091,21 @@ help:
 	@echo "... SearchRotatedSortedArray.o"
 	@echo "... SearchRotatedSortedArray.i"
 	@echo "... SearchRotatedSortedArray.s"
+	@echo "... SetMatrixZeroes.o"
+	@echo "... SetMatrixZeroes.i"
+	@echo "... SetMatrixZeroes.s"
+	@echo "... ShortestUnsortedContinuousSubarray.o"
+	@echo "... ShortestUnsortedContinuousSubarray.i"
+	@echo "... ShortestUnsortedContinuousSubarray.s"
+	@echo "... SpiralMatrix.o"
+	@echo "... SpiralMatrix.i"
+	@echo "... SpiralMatrix.s"
 	@echo "... StringtoInteger.o"
 	@echo "... StringtoInteger.i"
 	@echo "... StringtoInteger.s"
+	@echo "... SubarraySumEqualsK.o"
+	@echo "... SubarraySumEqualsK.i"
+	@echo "... SubarraySumEqualsK.s"
 	@echo "... SubstringwithConcatenationofAllWords.o"
 	@echo "... SubstringwithConcatenationofAllWords.i"
 	@echo "... SubstringwithConcatenationofAllWords.s"
@@ -1641,6 +2118,9 @@ help:
 	@echo "... TargetSum.o"
 	@echo "... TargetSum.i"
 	@echo "... TargetSum.s"
+	@echo "... TaskScheduler.o"
+	@echo "... TaskScheduler.i"
+	@echo "... TaskScheduler.s"
 	@echo "... TopKFrequentElements.o"
 	@echo "... TopKFrequentElements.i"
 	@echo "... TopKFrequentElements.s"
