@@ -420,6 +420,33 @@ ConvertSortedArrayBinarySearchTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ConvertSortedArrayBinarySearchTree.cpp.s
 .PHONY : ConvertSortedArrayBinarySearchTree.cpp.s
 
+CopyListRandomPointer.o: CopyListRandomPointer.cpp.o
+
+.PHONY : CopyListRandomPointer.o
+
+# target to build an object file
+CopyListRandomPointer.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CopyListRandomPointer.cpp.o
+.PHONY : CopyListRandomPointer.cpp.o
+
+CopyListRandomPointer.i: CopyListRandomPointer.cpp.i
+
+.PHONY : CopyListRandomPointer.i
+
+# target to preprocess a source file
+CopyListRandomPointer.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CopyListRandomPointer.cpp.i
+.PHONY : CopyListRandomPointer.cpp.i
+
+CopyListRandomPointer.s: CopyListRandomPointer.cpp.s
+
+.PHONY : CopyListRandomPointer.s
+
+# target to generate assembly for a file
+CopyListRandomPointer.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/CopyListRandomPointer.cpp.s
+.PHONY : CopyListRandomPointer.cpp.s
+
 CountandSay.o: CountandSay.cpp.o
 
 .PHONY : CountandSay.o
@@ -825,6 +852,33 @@ IntegertoRoman.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/IntegertoRoman.cpp.s
 .PHONY : IntegertoRoman.cpp.s
 
+LargestNumber.o: LargestNumber.cpp.o
+
+.PHONY : LargestNumber.o
+
+# target to build an object file
+LargestNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LargestNumber.cpp.o
+.PHONY : LargestNumber.cpp.o
+
+LargestNumber.i: LargestNumber.cpp.i
+
+.PHONY : LargestNumber.i
+
+# target to preprocess a source file
+LargestNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LargestNumber.cpp.i
+.PHONY : LargestNumber.cpp.i
+
+LargestNumber.s: LargestNumber.cpp.s
+
+.PHONY : LargestNumber.s
+
+# target to generate assembly for a file
+LargestNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/LargestNumber.cpp.s
+.PHONY : LargestNumber.cpp.s
+
 LetterCombinationsofaPhoneNumber.o: LetterCombinationsofaPhoneNumber.cpp.o
 
 .PHONY : LetterCombinationsofaPhoneNumber.o
@@ -1094,6 +1148,33 @@ PalindromeNumber.s: PalindromeNumber.cpp.s
 PalindromeNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromeNumber.cpp.s
 .PHONY : PalindromeNumber.cpp.s
+
+PalindromePartitioning.o: PalindromePartitioning.cpp.o
+
+.PHONY : PalindromePartitioning.o
+
+# target to build an object file
+PalindromePartitioning.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromePartitioning.cpp.o
+.PHONY : PalindromePartitioning.cpp.o
+
+PalindromePartitioning.i: PalindromePartitioning.cpp.i
+
+.PHONY : PalindromePartitioning.i
+
+# target to preprocess a source file
+PalindromePartitioning.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromePartitioning.cpp.i
+.PHONY : PalindromePartitioning.cpp.i
+
+PalindromePartitioning.s: PalindromePartitioning.cpp.s
+
+.PHONY : PalindromePartitioning.s
+
+# target to generate assembly for a file
+PalindromePartitioning.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/PalindromePartitioning.cpp.s
+.PHONY : PalindromePartitioning.cpp.s
 
 PalindromicSubstrings.o: PalindromicSubstrings.cpp.o
 
@@ -1662,6 +1743,33 @@ SudokuSolver.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SudokuSolver.cpp.s
 .PHONY : SudokuSolver.cpp.s
 
+SurroundedRegions.o: SurroundedRegions.cpp.o
+
+.PHONY : SurroundedRegions.o
+
+# target to build an object file
+SurroundedRegions.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SurroundedRegions.cpp.o
+.PHONY : SurroundedRegions.cpp.o
+
+SurroundedRegions.i: SurroundedRegions.cpp.i
+
+.PHONY : SurroundedRegions.i
+
+# target to preprocess a source file
+SurroundedRegions.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SurroundedRegions.cpp.i
+.PHONY : SurroundedRegions.cpp.i
+
+SurroundedRegions.s: SurroundedRegions.cpp.s
+
+.PHONY : SurroundedRegions.s
+
+# target to generate assembly for a file
+SurroundedRegions.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/SurroundedRegions.cpp.s
+.PHONY : SurroundedRegions.cpp.s
+
 SwapNodesinPairs.o: SwapNodesinPairs.cpp.o
 
 .PHONY : SwapNodesinPairs.o
@@ -1742,6 +1850,33 @@ TaskScheduler.s: TaskScheduler.cpp.s
 TaskScheduler.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TaskScheduler.cpp.s
 .PHONY : TaskScheduler.cpp.s
+
+TheSkylineProblem.o: TheSkylineProblem.cpp.o
+
+.PHONY : TheSkylineProblem.o
+
+# target to build an object file
+TheSkylineProblem.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TheSkylineProblem.cpp.o
+.PHONY : TheSkylineProblem.cpp.o
+
+TheSkylineProblem.i: TheSkylineProblem.cpp.i
+
+.PHONY : TheSkylineProblem.i
+
+# target to preprocess a source file
+TheSkylineProblem.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TheSkylineProblem.cpp.i
+.PHONY : TheSkylineProblem.cpp.i
+
+TheSkylineProblem.s: TheSkylineProblem.cpp.s
+
+.PHONY : TheSkylineProblem.s
+
+# target to generate assembly for a file
+TheSkylineProblem.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/TheSkylineProblem.cpp.s
+.PHONY : TheSkylineProblem.cpp.s
 
 TopKFrequentElements.o: TopKFrequentElements.cpp.o
 
@@ -1850,6 +1985,33 @@ ValidSudoku.s: ValidSudoku.cpp.s
 ValidSudoku.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/ValidSudoku.cpp.s
 .PHONY : ValidSudoku.cpp.s
+
+WordLadder.o: WordLadder.cpp.o
+
+.PHONY : WordLadder.o
+
+# target to build an object file
+WordLadder.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/WordLadder.cpp.o
+.PHONY : WordLadder.cpp.o
+
+WordLadder.i: WordLadder.cpp.i
+
+.PHONY : WordLadder.i
+
+# target to preprocess a source file
+WordLadder.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/WordLadder.cpp.i
+.PHONY : WordLadder.cpp.i
+
+WordLadder.s: WordLadder.cpp.s
+
+.PHONY : WordLadder.s
+
+# target to generate assembly for a file
+WordLadder.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/WordLadder.cpp.s
+.PHONY : WordLadder.cpp.s
 
 ZigZagConversion.o: ZigZagConversion.cpp.o
 
@@ -1974,6 +2136,9 @@ help:
 	@echo "... ConvertSortedArrayBinarySearchTree.o"
 	@echo "... ConvertSortedArrayBinarySearchTree.i"
 	@echo "... ConvertSortedArrayBinarySearchTree.s"
+	@echo "... CopyListRandomPointer.o"
+	@echo "... CopyListRandomPointer.i"
+	@echo "... CopyListRandomPointer.s"
 	@echo "... CountandSay.o"
 	@echo "... CountandSay.i"
 	@echo "... CountandSay.s"
@@ -2019,6 +2184,9 @@ help:
 	@echo "... IntegertoRoman.o"
 	@echo "... IntegertoRoman.i"
 	@echo "... IntegertoRoman.s"
+	@echo "... LargestNumber.o"
+	@echo "... LargestNumber.i"
+	@echo "... LargestNumber.s"
 	@echo "... LetterCombinationsofaPhoneNumber.o"
 	@echo "... LetterCombinationsofaPhoneNumber.i"
 	@echo "... LetterCombinationsofaPhoneNumber.s"
@@ -2049,6 +2217,9 @@ help:
 	@echo "... PalindromeNumber.o"
 	@echo "... PalindromeNumber.i"
 	@echo "... PalindromeNumber.s"
+	@echo "... PalindromePartitioning.o"
+	@echo "... PalindromePartitioning.i"
+	@echo "... PalindromePartitioning.s"
 	@echo "... PalindromicSubstrings.o"
 	@echo "... PalindromicSubstrings.i"
 	@echo "... PalindromicSubstrings.s"
@@ -2112,6 +2283,9 @@ help:
 	@echo "... SudokuSolver.o"
 	@echo "... SudokuSolver.i"
 	@echo "... SudokuSolver.s"
+	@echo "... SurroundedRegions.o"
+	@echo "... SurroundedRegions.i"
+	@echo "... SurroundedRegions.s"
 	@echo "... SwapNodesinPairs.o"
 	@echo "... SwapNodesinPairs.i"
 	@echo "... SwapNodesinPairs.s"
@@ -2121,6 +2295,9 @@ help:
 	@echo "... TaskScheduler.o"
 	@echo "... TaskScheduler.i"
 	@echo "... TaskScheduler.s"
+	@echo "... TheSkylineProblem.o"
+	@echo "... TheSkylineProblem.i"
+	@echo "... TheSkylineProblem.s"
 	@echo "... TopKFrequentElements.o"
 	@echo "... TopKFrequentElements.i"
 	@echo "... TopKFrequentElements.s"
@@ -2133,6 +2310,9 @@ help:
 	@echo "... ValidSudoku.o"
 	@echo "... ValidSudoku.i"
 	@echo "... ValidSudoku.s"
+	@echo "... WordLadder.o"
+	@echo "... WordLadder.i"
+	@echo "... WordLadder.s"
 	@echo "... ZigZagConversion.o"
 	@echo "... ZigZagConversion.i"
 	@echo "... ZigZagConversion.s"

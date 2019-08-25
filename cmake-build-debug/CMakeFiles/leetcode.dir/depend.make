@@ -23,6 +23,8 @@ CMakeFiles/leetcode.dir/ConvertBSTGreaterTree.cpp.o: ../ConvertBSTGreaterTree.cp
 
 CMakeFiles/leetcode.dir/ConvertSortedArrayBinarySearchTree.cpp.o: ../ConvertSortedArrayBinarySearchTree.cpp
 
+CMakeFiles/leetcode.dir/CopyListRandomPointer.cpp.o: ../CopyListRandomPointer.cpp
+
 CMakeFiles/leetcode.dir/CountandSay.cpp.o: ../CountandSay.cpp
 
 CMakeFiles/leetcode.dir/CountingBits.cpp.o: ../CountingBits.cpp
@@ -53,6 +55,8 @@ CMakeFiles/leetcode.dir/ImplementstrStr.cpp.o: ../ImplementstrStr.cpp
 
 CMakeFiles/leetcode.dir/IntegertoRoman.cpp.o: ../IntegertoRoman.cpp
 
+CMakeFiles/leetcode.dir/LargestNumber.cpp.o: ../LargestNumber.cpp
+
 CMakeFiles/leetcode.dir/LetterCombinationsofaPhoneNumber.cpp.o: ../LetterCombinationsofaPhoneNumber.cpp
 
 CMakeFiles/leetcode.dir/LongestCommonPrefix.cpp.o: ../LongestCommonPrefix.cpp
@@ -72,6 +76,8 @@ CMakeFiles/leetcode.dir/MergekSortedLists.cpp.o: ../MergekSortedLists.cpp
 CMakeFiles/leetcode.dir/NextPermutation.cpp.o: ../NextPermutation.cpp
 
 CMakeFiles/leetcode.dir/PalindromeNumber.cpp.o: ../PalindromeNumber.cpp
+
+CMakeFiles/leetcode.dir/PalindromePartitioning.cpp.o: ../PalindromePartitioning.cpp
 
 CMakeFiles/leetcode.dir/PalindromicSubstrings.cpp.o: ../PalindromicSubstrings.cpp
 
@@ -115,6 +121,8 @@ CMakeFiles/leetcode.dir/SubstringwithConcatenationofAllWords.cpp.o: ../Substring
 
 CMakeFiles/leetcode.dir/SudokuSolver.cpp.o: ../SudokuSolver.cpp
 
+CMakeFiles/leetcode.dir/SurroundedRegions.cpp.o: ../SurroundedRegions.cpp
+
 CMakeFiles/leetcode.dir/SwapNodesinPairs.cpp.o: ../SwapNodesinPairs.cpp
 
 CMakeFiles/leetcode.dir/TargetSum.cpp.o: ../TargetSum.cpp
@@ -130,9 +138,11 @@ CMakeFiles/leetcode.dir/ValidParentheses.cpp.o: ../ValidParentheses.cpp
 
 CMakeFiles/leetcode.dir/ValidSudoku.cpp.o: ../ValidSudoku.cpp
 
+CMakeFiles/leetcode.dir/WordLadder.cpp.o: ../WordLadder.cpp
+
 CMakeFiles/leetcode.dir/ZigZagConversion.cpp.o: ../ZigZagConversion.cpp
 
-CMakeFiles/leetcode.dir/main.cpp.o: ../PopulatingNextRightPointersEachNode.cpp
+CMakeFiles/leetcode.dir/main.cpp.o: ../LargestNumber.cpp
 CMakeFiles/leetcode.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/leetcode.dir/utils.cpp.o: ../utils.cpp

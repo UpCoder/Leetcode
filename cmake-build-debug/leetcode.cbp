@@ -113,6 +113,9 @@
 		<Unit filename="/Users/liang/github/Leetcode/ConvertSortedArrayBinarySearchTree.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/CopyListRandomPointer.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/CountandSay.cpp">
 			<Option target="leetcode"/>
 		</Unit>
@@ -158,6 +161,9 @@
 		<Unit filename="/Users/liang/github/Leetcode/IntegertoRoman.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/LargestNumber.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/LetterCombinationsofaPhoneNumber.cpp">
 			<Option target="leetcode"/>
 		</Unit>
@@ -186,6 +192,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/PalindromeNumber.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/PalindromePartitioning.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/PalindromicSubstrings.cpp">
@@ -251,6 +260,9 @@
 		<Unit filename="/Users/liang/github/Leetcode/SudokuSolver.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/SurroundedRegions.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/SwapNodesinPairs.cpp">
 			<Option target="leetcode"/>
 		</Unit>
@@ -258,6 +270,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/TaskScheduler.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/TheSkylineProblem.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/TopKFrequentElements.cpp">
@@ -270,6 +285,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/ValidSudoku.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/liang/github/Leetcode/WordLadder.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/Users/liang/github/Leetcode/ZigZagConversion.cpp">
