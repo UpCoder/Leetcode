@@ -1,4 +1,3 @@
-#include <iostream>
 //#include "./TwoSum1.cpp"
 //#include "./LongestPalindromicSubstring3.cpp"
 //#include "./ZigZagConversion.cpp"
@@ -78,7 +77,11 @@
 //#include "LowestCommonAncestorBinaryTree.cpp"
 //#include "ProductArrayExceptSelf.cpp"
 //#include "PerfectSquares.cpp"
-#include "FindDuplicateNumber.cpp"
+//#include "FindDuplicateNumber.cpp"
+//#include "LongestIncreasingSubsequence.cpp"
+//#include "BestTimeBuySellStockCooldown.cpp"
+//#include "BestTimeBuySellStockII.cpp"
+#include "MaxPointsLine.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
@@ -126,6 +129,5 @@ int main() {
 //    DecodeWays::test();
     Solution::solution();
 
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
