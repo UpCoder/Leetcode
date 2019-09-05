@@ -232,8 +232,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FlattenNestedListIterator.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+            <state relative-caret-position="546">
+              <caret line="49" lean-forward="true" selection-start-line="19" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -589,18 +589,17 @@
       <workItem from="1566718150749" duration="2022000" />
       <workItem from="1566785479012" duration="22253000" />
       <workItem from="1566973411856" duration="492000" />
-      <workItem from="1566983155392" duration="32176000" />
+      <workItem from="1566983155392" duration="32612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419615000" />
+    <option name="totallyTimeSpent" value="420051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="985" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49318182" visible="true" weight="0.16027689" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49318182" visible="true" weight="0.16027689" />
       <window_info id="Structure" order="1" sideWeight="0.5068182" side_tool="true" weight="0.33441034" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -612,7 +611,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.30795074" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3180291" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3180291" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3281075" />
       <window_info anchor="bottom" id="CMake" order="12" />
@@ -1598,8 +1597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlattenNestedListIterator.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        <state relative-caret-position="546">
+          <caret line="49" lean-forward="true" selection-start-line="19" selection-end-line="49" />
         </state>
       </provider>
     </entry>
