@@ -78,12 +78,10 @@
 //#include "ProductArrayExceptSelf.cpp"
 //#include "PerfectSquares.cpp"
 //#include "FindDuplicateNumber.cpp"
-<<<<<<< HEAD
 //#include "LongestIncreasingSubsequence.cpp"
 //#include "BestTimeBuySellStockCooldown.cpp"
 //#include "BestTimeBuySellStockII.cpp"
-#include "MaxPointsLine.cpp"
-=======
+// #include "MaxPointsLine.cpp"
 //#include "BurstBalloons.cpp"
 //#include "CoinChange.cpp"
 //#include "CountingBits.cpp"
@@ -121,8 +119,9 @@
 // #include "ali_1.cpp"
 //#include "WiggleSortII.cpp"
 //#include "4SumII.cpp"
-#include "KthSmallestElementSortedMatrix.cpp"
->>>>>>> da53f7352100d8913bb41015d6992e0752575140
+// #include "KthSmallestElementSortedMatrix.cpp"
+//#include "MultiplyStrings.cpp"
+#include "N-QueensII.cpp"
 int main() {
 //    TwoSum1::test();
 //    LongestPalindromicSubstring::test();
